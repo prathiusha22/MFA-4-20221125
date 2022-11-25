@@ -1,0 +1,51 @@
+*{
+    font-family: barlow;
+    font-weight: 600;
+}
+.ab{
+    margin-left: 1000px;
+    word-spacing: 25px;
+    font-size: 20px;
+    color: white;
+    margin-top: -450px;
+}
+#but{
+    font-size: 15px;
+    border-radius: 20px;
+    border: 0px solid white;
+    background-color: white;
+}
+.arrow{
+    margin-left: 730px;
+}
+.hed{
+    margin-left: 550px;
+    font-size: 50px;
+    color: white;
+}
+.hdim{
+    margin-left: 500px;
+    margin-top: -600px;
+}
+.trans{
+    margin-left: 800px;
+    margin-top: -700px;
+}
+.hed1{
+    margin-top: 450px;
+    margin-left: 160px;
+}
+.hed2{
+    margin-top: 450px;
+    margin-left: 160px;
+}
+.stand{
+   margin-top: -800%;
+}
+.pics{
+    display: inline-block;
+}
+.foot{
+    background-color:;
+}
+    
